@@ -1,0 +1,17 @@
+__pycache__/
+
+*.pyc
+
+.env
+
+venv/
+
+data/
+
+reports/
+
+models/*.pkl
+
+.idea/
+
+.vscode/
